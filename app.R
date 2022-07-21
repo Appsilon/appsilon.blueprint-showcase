@@ -1,5 +1,6 @@
 remotes::install_github(
   "https://github.com/Appsilon/appsilon.blueprint.git",
+  ref="feature/client-side-interaction",
   upgrade = "never"
 )
 
